@@ -2,6 +2,317 @@
 
 **Human-Centered Evaluation of Intelligence, Work, Capacity, Technology, and Human Flourishing**
 
+**Framework:** Human-Centered Operating Systems™ (HCOS™)
+**Status:** Draft / Under Development
+
+---
+
+## What Is HCOS™ Human-Centered AI?
+
+HCOS™ Human-Centered AI is a framework for evaluating how intelligence, work, responsibility, capacity, technological power, and value should be allocated between humans and artificial intelligence.
+
+It begins with one central question:
+
+> **What should AI carry so humans have greater capacity for what matters?**
+
+The goal is not maximum automation.
+
+The goal is not minimum automation.
+
+The goal is:
+
+> **Wise allocation of intelligence, work, authority, and capacity between humans and technology.**
+
+---
+
+## Why This Framework Exists
+
+AI discussions often begin with:
+
+> **What can AI do?**
+
+HCOS begins with:
+
+> **What do humans need?**
+
+and then asks:
+
+> **What should remain meaningfully human?**
+
+> **What unnecessary burden should technology carry?**
+
+> **Who receives the capacity technology creates?**
+
+> **What happens to humans as a result?**
+
+Technical capability alone does not determine whether an activity should be automated.
+
+A task may be technically automatable while still containing important:
+
+* meaning,
+* relationship,
+* creativity,
+* learning,
+* judgment,
+* identity,
+* agency,
+* or desired human participation.
+
+Likewise, humans may be spending enormous amounts of capacity on work that does not meaningfully need to remain human.
+
+This produces a foundational HCOS principle:
+
+> **Not all human effort is load. Some effort is where meaning lives.**
+
+---
+
+## Core Architecture
+
+The HCOS™ Human-Centered AI Architecture follows:
+
+**Human Need**
+
+↓
+
+**Human Value**
+
+↓
+
+**Externalized Human Load**
+
+↓
+
+**Human Capacity Protection**
+
+↓
+
+**Appropriate Intelligence Allocation**
+
+↓
+
+**Capacity Return**
+
+↓
+
+**Optimization Alignment**
+
+↓
+
+**Meaningful Technological Empowerment**
+
+↓
+
+**Human Outcomes**
+
+↓
+
+**Learning**
+
+The architecture asks not merely whether AI works, but whether technological capability is being translated into meaningful human benefit.
+
+---
+
+## Three Core Questions
+
+The framework can be summarized through three questions:
+
+### What should remain meaningfully human?
+
+Protect human value, capacity, relationships, judgment, learning, creativity, autonomy, and desired participation.
+
+### What should technology carry so human capacity increases?
+
+Identify unnecessary human load and determine whether work should be human-led, AI-led, or shared.
+
+### Who actually receives the benefit created by technological efficiency?
+
+Evaluate Capacity Return, power, workload, agency, and human outcomes.
+
+Together:
+
+> **Preserve → Allocate → Return**
+
+---
+
+## Core Constructs
+
+### Externalized Human Load
+
+What burden is the surrounding system requiring humans to carry that does not inherently need to remain human?
+
+### Human Capacity Protection
+
+What human capacities, relationships, experiences, and forms of agency should technology preserve or strengthen?
+
+### Appropriate Intelligence Allocation
+
+What should humans carry, what should AI carry, and what should they carry together?
+
+### Capacity Return
+
+When AI creates time, cognitive space, attention, energy, or efficiency, who receives that capacity?
+
+### Optimization Alignment
+
+Is the system still serving its declared human purpose?
+
+### Proxy Displacement
+
+Has a measurable indicator created to represent a human purpose gradually become the thing the system actually serves?
+
+### Meaningful Technological Empowerment
+
+Can humans access, understand, control, benefit from, decline, and contest the technology?
+
+### Human Outcomes
+
+What actually happens to dignity, autonomy, agency, capacity, load, connection, safety, meaning, creativity, learning, and flourishing?
+
+---
+
+## Core Principles
+
+> **Not all human effort is load. Some effort is where meaning lives.**
+
+> **Automation should target unnecessary burden before it targets meaningful human participation.**
+
+> **What AI can do does not, by itself, determine what AI should do.**
+
+> **Human capacity is a legitimate beneficiary of technological efficiency.**
+
+> **Being subject to AI is not the same as being empowered by AI.**
+
+> **The measure is not the meaning.**
+
+> **Technical success does not establish human-centered success.**
+
+> **Greater technological power creates greater stewardship obligation.**
+
+---
+
+## Repository Structure
+
+```text
+hcos-human-centered-ai/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+│
+├── docs/
+│   ├── 01-human-centered-ai-architecture.md
+│   ├── 02-externalized-human-load.md
+│   ├── 03-human-capacity-protection.md
+│   ├── 04-appropriate-intelligence-allocation.md
+│   ├── 05-capacity-return.md
+│   ├── 06-optimization-alignment.md
+│   ├── 07-proxy-displacement.md
+│   ├── 08-meaningful-technological-empowerment.md
+│   ├── 09-human-outcomes.md
+│   └── 10-ai-governance-principles.md
+│
+├── instruments/
+│   ├── human-centered-ai-assessment.md
+│   └── quick-ai-check.md
+│
+├── examples/
+│   ├── workplace-automation.md
+│   ├── healthcare-ai.md
+│   ├── education-ai.md
+│   └── parent-child-capacity.md
+│
+└── diagrams/
+    └── human-centered-ai-architecture.md
+```
+
+---
+
+## Start Here
+
+For an overview of the full framework:
+
+[`docs/01-human-centered-ai-architecture.md`](docs/01-human-centered-ai-architecture.md)
+
+For the full evaluation instrument:
+
+[`instruments/human-centered-ai-assessment.md`](instruments/human-centered-ai-assessment.md)
+
+For a rapid review:
+
+[`instruments/quick-ai-check.md`](instruments/quick-ai-check.md)
+
+---
+
+## HCOS™ Human-Centered AI Proposition
+
+> **The goal of human-centered AI is not maximal automation, utilization, engagement, or output. It is the wise allocation of intelligence, work, and capacity between humans and technology so that unnecessary human load decreases while human dignity, agency, connection, meaning, creativity, safety, capacity, and flourishing increase.**
+
+In its simplest form:
+
+> # **What should AI carry so humans have greater capacity for what matters?**
+
+---
+
+## Relationship to Human-Centered Operating Systems™
+
+HCOS™ Human-Centered AI is part of the broader Human-Centered Operating Systems™ framework.
+
+Related HCOS work examines:
+
+* human dignity,
+* autonomy,
+* stewardship,
+* power,
+* fear and decision-making,
+* warnings and uncomfortable truths,
+* connection,
+* access,
+* opportunity,
+* responsibility,
+* repair,
+* and human flourishing.
+
+The AI architecture applies those principles specifically to the relationship between humans and intelligent technologies.
+
+---
+
+## Development Status
+
+This framework is actively being developed and stress-tested.
+
+The current documents should be understood as evolving conceptual and operational work rather than final standards.
+
+Constructive critique, applied testing, edge cases, and evidence that challenge the framework are welcome.
+
+HCOS itself should remain open to correction.
+
+> **A human-centered framework should never become another unquestionable authority.**
+
+---
+
+## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution principles and submission guidance.
+
+---
+
+## Licensing and Intellectual Property
+
+Use of this repository is governed by the terms in [`LICENSE`](LICENSE).
+
+**Human-Centered Operating Systems™**, **HCOS™**, and named HCOS constructs may also function as identifiers of the framework and are not automatically granted for unrestricted branding or endorsement simply because repository content is available under a license.
+
+---
+
+**Human-Centered Operating Systems™ (HCOS™)**
+
+**Understand the Human → Protect Human Value → Reduce Unnecessary Load → Allocate Intelligence Wisely → Return Capacity → Measure Human Outcomes → Learn**
+
+
+# HCOS™ Human-Centered AI
+
+**Human-Centered Evaluation of Intelligence, Work, Capacity, Technology, and Human Flourishing**
+
 Framework: **Human-Centered Operating Systems™ (HCOS™)**
 Status: **Draft / Under Development**
 
